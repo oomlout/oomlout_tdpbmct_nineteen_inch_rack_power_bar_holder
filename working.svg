@@ -5,7 +5,7 @@
 viewBox="0 0 60000 30000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <font id="FontID0" horiz-adv-x="690" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+  <font id="FontID0" horiz-adv-x="690" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
 	<font-face 
 		font-family="Lucida Sans Unicode">
 	</font-face>
@@ -56,238 +56,238 @@ viewBox="0 0 60000 30000"
   <circle class="fil1 str0" cx="15000" cy="45925" r="200"/>
   <path class="fil1 str1" d="M3225 46169c106,72 175,193 175,331 0,137 -69,259 -175,331l0 0 0 0c-64,44 -142,69 -225,69 -83,0 -161,-26 -225,-69l0 0 0 0c-106,-72 -175,-193 -175,-331 0,-137 69,-259 175,-331l0 -244c0,-124 101,-225 225,-225 124,0 225,101 225,225l0 244z"/>
   <circle class="fil1 str0" cx="3000" cy="45925" r="200"/>
-  <g id="_877557376">
-   <path class="fil1 str0" d="M5300 18950l0 -7900c0,-276 224,-500 500,-500l48400 0c276,0 500,224 500,500l0 7900c0,276 -224,500 -500,500l-48400 0c-276,0 -500,-224 -500,-500z"/>
+  <path class="fil1 str0" d="M5300 18950l0 -7900c0,-276 224,-500 500,-500l48400 0c276,0 500,224 500,500l0 7900c0,276 -224,500 -500,500l-48400 0c-276,0 -500,-224 -500,-500z"/>
+  <rect class="fil1 str1" x="9500" y="14600" width="2000" height="800"/>
+  <g id="_881033680">
    <rect class="fil1 str2" x="11500" y="12200" width="37000" height="5600"/>
-   <rect class="fil1 str1" x="9500" y="14600" width="2000" height="800"/>
-   <path class="fil1 str1" d="M21225 14669c106,72 175,193 175,331 0,137 -69,259 -175,331l0 0 0 0c-64,44 -142,69 -225,69 -83,0 -161,-26 -225,-69l0 0 0 0c-106,-72 -175,-193 -175,-331 0,-137 69,-259 175,-331l0 -244c0,-124 101,-225 225,-225 124,0 225,101 225,225l0 244z"/>
-   <circle class="fil1 str0" cx="21000" cy="14425" r="200"/>
-   <path class="fil1 str1" d="M42225 14669c106,72 175,193 175,331 0,137 -69,259 -175,331l0 0 0 0c-64,44 -142,69 -225,69 -83,0 -161,-26 -225,-69l0 0 0 0c-106,-72 -175,-193 -175,-331 0,-137 69,-259 175,-331l0 -244c0,-124 101,-225 225,-225 124,0 225,101 225,225l0 244z"/>
-   <circle class="fil1 str0" cx="42000" cy="14425" r="200"/>
-   <g>
-    <g>
-     <rect class="fil1 str3" x="6294" y="16772" width="900" height="900"/>
-     <rect class="fil1 str3" x="6294" y="15185" width="900" height="900"/>
-     <rect class="fil1 str3" x="6294" y="18360" width="900" height="900"/>
-    </g>
-    <rect class="fil1 str3" x="5870" y="15000" width="1588" height="4445"/>
-    <circle class="fil1 str3" cx="6744" cy="17223" r="300"/>
-    <circle class="fil1 str3" cx="6744" cy="15635" r="300"/>
-    <circle class="fil1 str3" cx="6744" cy="18810" r="300"/>
-    <g>
-     <rect class="fil1 str3" x="52806" y="16772" width="900" height="900"/>
-     <rect class="fil1 str3" x="52806" y="15185" width="900" height="900"/>
-     <rect class="fil1 str3" x="52806" y="18360" width="900" height="900"/>
-    </g>
-    <rect class="fil1 str3" x="52542" y="15000" width="1588" height="4445"/>
-    <circle class="fil1 str3" cx="53256" cy="17223" r="300"/>
-    <circle class="fil1 str3" cx="53256" cy="15635" r="300"/>
-    <circle class="fil1 str3" cx="53256" cy="18810" r="300"/>
-   </g>
-   <g>
-    <g>
-     <rect class="fil1 str3" x="6294" y="12327" width="900" height="900"/>
-     <rect class="fil1 str3" x="6294" y="10740" width="900" height="900"/>
-     <rect class="fil1 str3" x="6294" y="13915" width="900" height="900"/>
-    </g>
-    <rect class="fil1 str3" x="5870" y="10555" width="1588" height="4445"/>
-    <circle class="fil1 str3" cx="6744" cy="12778" r="300"/>
-    <circle class="fil1 str3" cx="6744" cy="11190" r="300"/>
-    <circle class="fil1 str3" cx="6744" cy="14365" r="300"/>
-    <g>
-     <rect class="fil1 str3" x="52806" y="12327" width="900" height="900"/>
-     <rect class="fil1 str3" x="52806" y="10740" width="900" height="900"/>
-     <rect class="fil1 str3" x="52806" y="13915" width="900" height="900"/>
-    </g>
-    <rect class="fil1 str3" x="52542" y="10555" width="1588" height="4445"/>
-    <circle class="fil1 str3" cx="53256" cy="12778" r="300"/>
-    <circle class="fil1 str3" cx="53256" cy="11190" r="300"/>
-    <circle class="fil1 str3" cx="53256" cy="14365" r="300"/>
-   </g>
-   <circle class="fil1 str0" cx="53256" cy="11190" r="300"/>
-   <circle class="fil1 str0" cx="53256" cy="12778" r="300"/>
-   <circle class="fil1 str0" cx="53256" cy="14365" r="300"/>
-   <circle class="fil1 str0" cx="53256" cy="15635" r="300"/>
-   <circle class="fil1 str0" cx="53256" cy="17223" r="300"/>
-   <circle class="fil1 str0" cx="53256" cy="18810" r="300"/>
-   <circle class="fil1 str0" cx="6744" cy="11190" r="300"/>
-   <circle class="fil1 str0" cx="6744" cy="12778" r="300"/>
-   <circle class="fil1 str0" cx="6744" cy="14365" r="300"/>
-   <circle class="fil1 str0" cx="6744" cy="15635" r="300"/>
-   <circle class="fil1 str0" cx="6744" cy="17223" r="300"/>
-   <circle class="fil1 str0" cx="6744" cy="18810" r="300"/>
-   <text x="12434" y="13867"  class="fil1 str5 fnt0">oomlout_tdpbmct_nineteen_inch_rack_power_bar_holder</text>
-   <circle class="fil1 str0" cx="51000" cy="11250" r="300"/>
-   <text x="26560" y="16867"  class="fil1 str5 fnt0">oobb_33_6</text>
-   <circle class="fil1 str0" cx="50250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="51000" cy="12000" r="150"/>
-   <circle class="fil1 str0" cx="49500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="48750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="49500" cy="12000" r="150"/>
-   <circle class="fil1 str0" cx="51000" cy="12750" r="300"/>
-   <circle class="fil1 str0" cx="50250" cy="12750" r="150"/>
-   <circle class="fil1 str0" cx="51000" cy="13500" r="150"/>
-   <circle class="fil1 str0" cx="49500" cy="12750" r="300"/>
-   <circle class="fil1 str0" cx="49500" cy="13500" r="150"/>
-   <circle class="fil1 str0" cx="51000" cy="14250" r="300"/>
-   <circle class="fil1 str0" cx="50250" cy="14250" r="150"/>
-   <circle class="fil1 str0" cx="51000" cy="15000" r="150"/>
-   <circle class="fil1 str0" cx="49500" cy="14250" r="300"/>
-   <circle class="fil1 str0" cx="49500" cy="15000" r="150"/>
-   <circle class="fil1 str0" cx="51000" cy="15750" r="300"/>
-   <circle class="fil1 str0" cx="50250" cy="15750" r="150"/>
-   <circle class="fil1 str0" cx="51000" cy="16500" r="150"/>
-   <circle class="fil1 str0" cx="49500" cy="15750" r="300"/>
-   <circle class="fil1 str0" cx="49500" cy="16500" r="150"/>
-   <circle class="fil1 str0" cx="51000" cy="17250" r="300"/>
-   <circle class="fil1 str0" cx="50250" cy="17250" r="150"/>
-   <circle class="fil1 str0" cx="51000" cy="18000" r="150"/>
-   <circle class="fil1 str0" cx="49500" cy="17250" r="300"/>
-   <circle class="fil1 str0" cx="49500" cy="18000" r="150"/>
-   <circle class="fil1 str0" cx="51000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="50250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="49500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="48000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="47250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="46500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="45750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="48000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="47250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="46500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="45750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="48750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="45000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="44250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="43500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="42750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="45000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="44250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="43500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="42750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="42000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="41250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="40500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="39750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="42000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="41250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="40500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="39750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="39000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="38250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="37500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="36750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="39000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="38250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="37500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="36750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="36000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="35250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="34500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="33750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="36000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="35250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="34500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="33750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="33000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="32250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="31500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="30750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="33000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="32250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="31500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="30750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="30000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="29250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="28500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="27750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="30000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="29250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="28500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="27750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="27000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="26250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="25500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="24750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="27000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="26250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="25500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="24750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="24000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="23250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="22500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="21750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="24000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="23250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="22500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="21750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="21000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="20250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="19500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="18750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="21000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="20250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="19500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="18750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="18000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="17250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="16500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="15750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="18000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="17250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="16500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="15750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="15000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="14250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="13500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="12750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="15000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="14250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="13500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="12750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="10500" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="9750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="10500" cy="12000" r="150"/>
-   <circle class="fil1 str0" cx="9000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="9000" cy="12000" r="150"/>
-   <circle class="fil1 str0" cx="10500" cy="12750" r="300"/>
-   <circle class="fil1 str0" cx="9750" cy="12750" r="150"/>
-   <circle class="fil1 str0" cx="10500" cy="13500" r="150"/>
-   <circle class="fil1 str0" cx="9000" cy="12750" r="300"/>
-   <circle class="fil1 str0" cx="9000" cy="13500" r="150"/>
-   <circle class="fil1 str0" cx="10500" cy="14250" r="300"/>
-   <circle class="fil1 str0" cx="9750" cy="14250" r="150"/>
-   <circle class="fil1 str0" cx="10500" cy="15000" r="150"/>
-   <circle class="fil1 str0" cx="9000" cy="14250" r="300"/>
-   <circle class="fil1 str0" cx="9000" cy="15000" r="150"/>
-   <circle class="fil1 str0" cx="10500" cy="15750" r="300"/>
-   <circle class="fil1 str0" cx="9750" cy="15750" r="150"/>
-   <circle class="fil1 str0" cx="10500" cy="16500" r="150"/>
-   <circle class="fil1 str0" cx="9000" cy="15750" r="300"/>
-   <circle class="fil1 str0" cx="9000" cy="16500" r="150"/>
-   <circle class="fil1 str0" cx="10500" cy="17250" r="300"/>
-   <circle class="fil1 str0" cx="9750" cy="17250" r="150"/>
-   <circle class="fil1 str0" cx="10500" cy="18000" r="150"/>
-   <circle class="fil1 str0" cx="9000" cy="17250" r="300"/>
-   <circle class="fil1 str0" cx="9000" cy="18000" r="150"/>
-   <circle class="fil1 str0" cx="10500" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="9750" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="9000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="12000" cy="11250" r="300"/>
-   <circle class="fil1 str0" cx="11250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="12000" cy="18750" r="300"/>
-   <circle class="fil1 str0" cx="11250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="8250" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="8250" cy="12750" r="150"/>
-   <circle class="fil1 str0" cx="8250" cy="14250" r="150"/>
-   <circle class="fil1 str0" cx="8250" cy="15750" r="150"/>
-   <circle class="fil1 str0" cx="8250" cy="17250" r="150"/>
-   <circle class="fil1 str0" cx="8250" cy="18750" r="150"/>
-   <circle class="fil1 str0" cx="51750" cy="11250" r="150"/>
-   <circle class="fil1 str0" cx="51750" cy="12750" r="150"/>
-   <circle class="fil1 str0" cx="51750" cy="14250" r="150"/>
-   <circle class="fil1 str0" cx="51750" cy="15750" r="150"/>
-   <circle class="fil1 str0" cx="51750" cy="17250" r="150"/>
-   <circle class="fil1 str0" cx="51750" cy="18750" r="150"/>
+   <path class="fil1 str1" d="M21225 15331c106,-72 175,-193 175,-331 0,-137 -69,-259 -175,-331l0 0 0 0c-64,-44 -142,-69 -225,-69 -83,0 -161,26 -225,69l0 0 0 0c-106,72 -175,193 -175,331 0,137 69,259 175,331l0 244c0,124 101,225 225,225 124,0 225,-101 225,-225l0 -244z"/>
+   <circle class="fil1 str0" cx="21000" cy="15575" r="200"/>
+   <path class="fil1 str1" d="M42225 15331c106,-72 175,-193 175,-331 0,-137 -69,-259 -175,-331l0 0 0 0c-64,-44 -142,-69 -225,-69 -83,0 -161,26 -225,69l0 0 0 0c-106,72 -175,193 -175,331 0,137 69,259 175,331l0 244c0,124 101,225 225,225 124,0 225,-101 225,-225l0 -244z"/>
+   <circle class="fil1 str0" cx="42000" cy="15575" r="200"/>
   </g>
+  <g id="_881026672">
+   <g>
+    <rect class="fil1 str3" x="6294" y="16772" width="900" height="900"/>
+    <rect class="fil1 str3" x="6294" y="15185" width="900" height="900"/>
+    <rect class="fil1 str3" x="6294" y="18360" width="900" height="900"/>
+   </g>
+   <rect class="fil1 str3" x="5870" y="15000" width="1588" height="4445"/>
+   <circle class="fil1 str3" cx="6744" cy="17223" r="300"/>
+   <circle class="fil1 str3" cx="6744" cy="15635" r="300"/>
+   <circle class="fil1 str3" cx="6744" cy="18810" r="300"/>
+   <g>
+    <rect class="fil1 str3" x="52806" y="16772" width="900" height="900"/>
+    <rect class="fil1 str3" x="52806" y="15185" width="900" height="900"/>
+    <rect class="fil1 str3" x="52806" y="18360" width="900" height="900"/>
+   </g>
+   <rect class="fil1 str3" x="52542" y="15000" width="1588" height="4445"/>
+   <circle class="fil1 str3" cx="53256" cy="17223" r="300"/>
+   <circle class="fil1 str3" cx="53256" cy="15635" r="300"/>
+   <circle class="fil1 str3" cx="53256" cy="18810" r="300"/>
+  </g>
+  <g id="_881020656">
+   <g>
+    <rect class="fil1 str3" x="6294" y="12327" width="900" height="900"/>
+    <rect class="fil1 str3" x="6294" y="10740" width="900" height="900"/>
+    <rect class="fil1 str3" x="6294" y="13915" width="900" height="900"/>
+   </g>
+   <rect class="fil1 str3" x="5870" y="10555" width="1588" height="4445"/>
+   <circle class="fil1 str3" cx="6744" cy="12778" r="300"/>
+   <circle class="fil1 str3" cx="6744" cy="11190" r="300"/>
+   <circle class="fil1 str3" cx="6744" cy="14365" r="300"/>
+   <g>
+    <rect class="fil1 str3" x="52806" y="12327" width="900" height="900"/>
+    <rect class="fil1 str3" x="52806" y="10740" width="900" height="900"/>
+    <rect class="fil1 str3" x="52806" y="13915" width="900" height="900"/>
+   </g>
+   <rect class="fil1 str3" x="52542" y="10555" width="1588" height="4445"/>
+   <circle class="fil1 str3" cx="53256" cy="12778" r="300"/>
+   <circle class="fil1 str3" cx="53256" cy="11190" r="300"/>
+   <circle class="fil1 str3" cx="53256" cy="14365" r="300"/>
+  </g>
+  <circle class="fil1 str0" cx="53256" cy="11190" r="300"/>
+  <circle class="fil1 str0" cx="53256" cy="12778" r="300"/>
+  <circle class="fil1 str0" cx="53256" cy="14365" r="300"/>
+  <circle class="fil1 str0" cx="53256" cy="15635" r="300"/>
+  <circle class="fil1 str0" cx="53256" cy="17223" r="300"/>
+  <circle class="fil1 str0" cx="53256" cy="18810" r="300"/>
+  <circle class="fil1 str0" cx="6744" cy="11190" r="300"/>
+  <circle class="fil1 str0" cx="6744" cy="12778" r="300"/>
+  <circle class="fil1 str0" cx="6744" cy="14365" r="300"/>
+  <circle class="fil1 str0" cx="6744" cy="15635" r="300"/>
+  <circle class="fil1 str0" cx="6744" cy="17223" r="300"/>
+  <circle class="fil1 str0" cx="6744" cy="18810" r="300"/>
+  <text x="12434" y="13867"  class="fil1 str5 fnt0">oomlout_tdpbmct_nineteen_inch_rack_power_bar_holder</text>
+  <circle class="fil1 str0" cx="51000" cy="11250" r="300"/>
+  <text x="26560" y="16867"  class="fil1 str5 fnt0">oobb_33_6</text>
+  <circle class="fil1 str0" cx="50250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="51000" cy="12000" r="150"/>
+  <circle class="fil1 str0" cx="49500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="48750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="49500" cy="12000" r="150"/>
+  <circle class="fil1 str0" cx="51000" cy="12750" r="300"/>
+  <circle class="fil1 str0" cx="50250" cy="12750" r="150"/>
+  <circle class="fil1 str0" cx="51000" cy="13500" r="150"/>
+  <circle class="fil1 str0" cx="49500" cy="12750" r="300"/>
+  <circle class="fil1 str0" cx="49500" cy="13500" r="150"/>
+  <circle class="fil1 str0" cx="51000" cy="14250" r="300"/>
+  <circle class="fil1 str0" cx="50250" cy="14250" r="150"/>
+  <circle class="fil1 str0" cx="51000" cy="15000" r="150"/>
+  <circle class="fil1 str0" cx="49500" cy="14250" r="300"/>
+  <circle class="fil1 str0" cx="49500" cy="15000" r="150"/>
+  <circle class="fil1 str0" cx="51000" cy="15750" r="300"/>
+  <circle class="fil1 str0" cx="50250" cy="15750" r="150"/>
+  <circle class="fil1 str0" cx="51000" cy="16500" r="150"/>
+  <circle class="fil1 str0" cx="49500" cy="15750" r="300"/>
+  <circle class="fil1 str0" cx="49500" cy="16500" r="150"/>
+  <circle class="fil1 str0" cx="51000" cy="17250" r="300"/>
+  <circle class="fil1 str0" cx="50250" cy="17250" r="150"/>
+  <circle class="fil1 str0" cx="51000" cy="18000" r="150"/>
+  <circle class="fil1 str0" cx="49500" cy="17250" r="300"/>
+  <circle class="fil1 str0" cx="49500" cy="18000" r="150"/>
+  <circle class="fil1 str0" cx="51000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="50250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="49500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="48000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="47250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="46500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="45750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="48000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="47250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="46500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="45750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="48750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="45000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="44250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="43500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="42750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="45000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="44250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="43500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="42750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="42000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="41250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="40500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="39750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="42000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="41250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="40500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="39750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="39000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="38250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="37500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="36750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="39000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="38250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="37500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="36750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="36000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="35250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="34500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="33750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="36000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="35250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="34500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="33750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="33000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="32250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="31500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="30750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="33000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="32250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="31500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="30750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="30000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="29250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="28500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="27750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="30000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="29250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="28500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="27750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="27000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="26250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="25500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="24750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="27000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="26250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="25500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="24750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="24000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="23250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="22500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="21750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="24000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="23250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="22500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="21750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="21000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="20250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="19500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="18750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="21000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="20250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="19500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="18750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="18000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="17250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="16500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="15750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="18000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="17250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="16500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="15750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="15000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="14250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="13500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="12750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="15000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="14250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="13500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="12750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="10500" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="9750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="10500" cy="12000" r="150"/>
+  <circle class="fil1 str0" cx="9000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="9000" cy="12000" r="150"/>
+  <circle class="fil1 str0" cx="10500" cy="12750" r="300"/>
+  <circle class="fil1 str0" cx="9750" cy="12750" r="150"/>
+  <circle class="fil1 str0" cx="10500" cy="13500" r="150"/>
+  <circle class="fil1 str0" cx="9000" cy="12750" r="300"/>
+  <circle class="fil1 str0" cx="9000" cy="13500" r="150"/>
+  <circle class="fil1 str0" cx="10500" cy="14250" r="300"/>
+  <circle class="fil1 str0" cx="9750" cy="14250" r="150"/>
+  <circle class="fil1 str0" cx="10500" cy="15000" r="150"/>
+  <circle class="fil1 str0" cx="9000" cy="14250" r="300"/>
+  <circle class="fil1 str0" cx="9000" cy="15000" r="150"/>
+  <circle class="fil1 str0" cx="10500" cy="15750" r="300"/>
+  <circle class="fil1 str0" cx="9750" cy="15750" r="150"/>
+  <circle class="fil1 str0" cx="10500" cy="16500" r="150"/>
+  <circle class="fil1 str0" cx="9000" cy="15750" r="300"/>
+  <circle class="fil1 str0" cx="9000" cy="16500" r="150"/>
+  <circle class="fil1 str0" cx="10500" cy="17250" r="300"/>
+  <circle class="fil1 str0" cx="9750" cy="17250" r="150"/>
+  <circle class="fil1 str0" cx="10500" cy="18000" r="150"/>
+  <circle class="fil1 str0" cx="9000" cy="17250" r="300"/>
+  <circle class="fil1 str0" cx="9000" cy="18000" r="150"/>
+  <circle class="fil1 str0" cx="10500" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="9750" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="9000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="12000" cy="11250" r="300"/>
+  <circle class="fil1 str0" cx="11250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="12000" cy="18750" r="300"/>
+  <circle class="fil1 str0" cx="11250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="8250" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="8250" cy="12750" r="150"/>
+  <circle class="fil1 str0" cx="8250" cy="14250" r="150"/>
+  <circle class="fil1 str0" cx="8250" cy="15750" r="150"/>
+  <circle class="fil1 str0" cx="8250" cy="17250" r="150"/>
+  <circle class="fil1 str0" cx="8250" cy="18750" r="150"/>
+  <circle class="fil1 str0" cx="51750" cy="11250" r="150"/>
+  <circle class="fil1 str0" cx="51750" cy="12750" r="150"/>
+  <circle class="fil1 str0" cx="51750" cy="14250" r="150"/>
+  <circle class="fil1 str0" cx="51750" cy="15750" r="150"/>
+  <circle class="fil1 str0" cx="51750" cy="17250" r="150"/>
+  <circle class="fil1 str0" cx="51750" cy="18750" r="150"/>
  </g>
 </svg>
